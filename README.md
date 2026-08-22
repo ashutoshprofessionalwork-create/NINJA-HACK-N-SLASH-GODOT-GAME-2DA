@@ -1,4 +1,4 @@
-# My First Godot Game  🎮
+# My First Godot Game 🎮
 
 Literally my first step into game dev. It's a barebones 2D box where you move, jump, and kill enemies. No menus, no sounds, no death screen—just testing basic physics, camera bounds, and enemy collisions in Godot.
 
