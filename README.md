@@ -10,9 +10,8 @@ Literally my first step into game dev. It's a barebones 2D box where you move, j
 **Controls**
 * **Move:** `A` / `D` or Arrow Keys
 * **Jump:** `Space`
-* **Light attack:** `'`
-* **Heavy attack:** `/`
-* **Heavy attack:** `/`
+* **Light attack:** `enter`
+* **Heavy attack:** `shift`
 * **Block (goofy tbh):** `/`
 
 **Stuff I Need to Add (WIP)**
