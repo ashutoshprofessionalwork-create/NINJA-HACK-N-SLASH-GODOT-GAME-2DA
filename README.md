@@ -1,4 +1,4 @@
-# My First Godot Game 🎮
+# My First Godot Game (prototype)🎮
 
 Literally my first step into game dev. It's a barebones 2D box where you move, jump, and kill enemies. No menus, no sounds, no death screen—just testing basic physics, camera bounds, and enemy collisions in Godot.
 
@@ -10,6 +10,10 @@ Literally my first step into game dev. It's a barebones 2D box where you move, j
 **Controls**
 * **Move:** `A` / `D` or Arrow Keys
 * **Jump:** `Space`
+* **Light attack:** `'`
+* **Heavy attack:** `/`
+* **Heavy attack:** `/`
+* **Block (goofy tbh):** `/`
 
 **Stuff I Need to Add (WIP)**
 * [ ] Actual Main Menu and Death/Game Over screen
